@@ -8249,3 +8249,8 @@ h5 {
   font-family: 'Russo One', sans-serif;
   color: #22283B;
 }
+.text-center a {
+  margin: 25px;
+  color: grey;
+  font-size: 20px;
+}
