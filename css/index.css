@@ -8251,6 +8251,9 @@ h5 {
 }
 .text-center a {
   margin: 25px;
-  color: grey;
   font-size: 20px;
+  color: grey;
+}
+.text-center a:hover {
+  text-decoration: none;
 }
